@@ -1,0 +1,3 @@
+package com.example.testgit
+
+data class text(var a: String)
